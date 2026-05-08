@@ -87,8 +87,8 @@ timestamp_utc,callsign,operator,qth,comments,frequency_hz
 ## Project Status
 
 - [x] Stage 1 — Serial/CAT layer (`rig.py`) — unit tests passing
-- [ ] Stage 2 — UI (`ui.py`, `main.py`)
-- [ ] Stage 3 — Log functionality (`logger.py`)
+- [ ] Stage 2 — UI (`ui.py`, `main.py`) — not started
+- [ ] Stage 3 — Log functionality (`logger.py`) — not started
 
 ---
 
